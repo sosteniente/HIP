@@ -16,10 +16,10 @@ for those needs some hotspot manufacturers are selling high-gain
 antennas as an optional accessory for their hotspots. Many buyers are not 
 aware that using the combination of the sold hotspot with the sold antenna is
 illegal in most regulatory domains. They expect anything sold together to be legal, 
-while this in most cases not the case. Staying legal is of cricical importance for the Helium 
+while this in most cases not the case. Staying legal is of critical importance for the Helium 
 network. While manufacturers cannot prevent the usage of illegal antennas, they at least should inform
-the users. Failure to do should (temporarly) ban them from being a HIP-19 approved manufacturer by 
-(temporarly) revoking access to the DeWi-onboarding server.
+the users. Failure to do should (temporarily) ban them from being a HIP-19 approved manufacturer by 
+(temporarily) revoking access to the DeWi-onboarding server.
 
 # Motivation
 [motivation]: #motivation
@@ -33,9 +33,9 @@ certain increased gain antenna with their hotspot both sold in the same sale cha
  combination of hotspot and antenna sold in the same sale channel is legal. 
 
 It's critical for the Helium network to stay legal, and while Helium Inc. or DeWi are not responsible
-for the installations hotspot owners are using, situations where the Helium network is forbidden because most 
-hotspot-operators are not following the rules should be absolutely avoided. Also situations where operators are
-fined or even jailed because they are unknownly operating an illegal combination should be avoided.
+for the setups hotspot owners are using, situations where the Helium network is forbidden because most 
+hotspot-operators are not following the rules should be absolutely avoided. Also, situations where operators are
+fined or even jailed because they are unknowingly operating an illegal combination should be avoided.
 
 This HIP doesn't ban hotspot operators from using high-gain antenna's because that is simply not possible. It only
 enforces HIP-19 approved manufacturers to inform their buyers about the legality of antenna's sold in the same sale
@@ -91,7 +91,7 @@ But this is difficult to maintain and doesn't consider regulatory domains where 
 # Unresolved Questions
 [unresolved]: #unresolved-questions
 
-- Does the DeWi onboarding server have a way of temporarly refusing onboarding?
+- Does the DeWi onboarding server have a way of temporarily refusing onboarding?
 - Is the DeWi capable (staffing for example) of and willing to enforcing this HIP?
 
 # Deployment Impact
